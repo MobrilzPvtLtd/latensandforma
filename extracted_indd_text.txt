@@ -1,0 +1,492 @@
+=== PASSAGE 1 ===
+@Paragraph Number & Page Number
+
+=== PASSAGE 2 ===
+@Text Anchor Name & Page Number
+
+=== PASSAGE 3 ===
+@with mesh and metal threads, and techniques such as mould-making and embroidery, each gesture unfolds across a sequence of forms, moving
+
+=== PASSAGE 4 ===
+Afrom latent potential towards a recognizable sign. The fragments become an alphabet of embodied memory, where gesture, material and history meet. The connecting points of the different stages is filled with woven copper yarns and persian words made out of silver.  The words beQ
+
+=== PASSAGE 5 ===
+KAhave oppositely to the evolvement of the hand shapes. At the beginning they are well visible and complete. With time, the words become more and more fragmented, as the hands of protest take their fully shape.  The work asks how a bodily movement becomes language, and how individual experience can take form as collective memory.
+
+=== PASSAGE 6 ===
+{APaperlab residency Croatia, 2026 3. Paper as skin An experimental investigation into the material possibilities of paper. Through cutting, layering, cocooning and surface treatments, the studies explore gradations, textures and the transition from flat surfaces to sculptural forms. The work approaches paper as a skin whose behaviour, resistance and potential emerge thro"
+
+=== PASSAGE 7 ===
+@These experiments set the foundation for further investigations into paper as a medium that moves between image, surface and object. Paperlab Sardinia, 2025
+
+=== PASSAGE 8 ===
+"@CJK Text Attributes.InDesignPlugin
+
+=== PASSAGE 9 ===
+@Text Attributes.InDesignPlugin
+
+=== PASSAGE 10 ===
+@Color Management.InDesignPlugin
+
+=== PASSAGE 11 ===
+$@Package and Preflight.InDesignPlugin
+
+=== PASSAGE 12 ===
+@Dynamic Documents.InDesignPlugin
+
+=== PASSAGE 13 ===
+!@Paragraph Composer.InDesignPlugin
+
+=== PASSAGE 14 ===
+!@Document Framework.InDesignPlugin
+
+=== PASSAGE 15 ===
+@Conditional Text.InDesignPlugin
+
+=== PASSAGE 16 ===
+@Generic Page Item.InDesignPlugin
+
+=== PASSAGE 17 ===
+@InCopy Bridge UI.InDesignPlugin
+
+=== PASSAGE 18 ===
+@Stroke and Fill.InDesignPlugin
+
+=== PASSAGE 19 ===
+@Spelling Service.InDesignPlugin
+
+=== PASSAGE 20 ===
+"@Portuguese: Orthographic Agreementl
+
+=== PASSAGE 21 ===
+9@Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900
+
+=== PASSAGE 22 ===
+:@Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329
+
+=== PASSAGE 23 ===
+2@Version 7.001;hotconv 1.0.107;makeotfexe 2.5.65593
+
+=== PASSAGE 24 ===
+" " " "'","'"4"5"4"="="="R"R"R"`"a"`"f"g"f"j"k"j"
+
+=== PASSAGE 25 ===
+(A 1. Abbild Abbild I - Blue room The series with 12 cyanotype artworks is created from the immediate surroundings of the KuBa Cultural Railway Station in Klein Warnow. Rusted tools found in the surrounding area encounter fragile plants. A fragmentary inventory of the site emerges in four rows.
+
+=== PASSAGE 26 ===
+z@ The rusted tools are evidence of human activity: they serve to work and alter nature. The plants stand in contrast to thev
+
+=== PASSAGE 27 ===
+p@m as fragile, living forms. The cyanotype process unites both elements on the same surface. Light reduces the t
+
+=== PASSAGE 28 ===
+@Aools and plants to their contours and traces. The tool loses its function and becomes form; the plant loses its color and becomes an imprint. The hues of the cyanotypes are created exclusively from materials found in the immediate surroundings: onion skin, nettle, black tea, and soda are used to evoke the color values
+
+=== PASSAGE 29 ===
+N@and their transformations. No chemical dyes are used. Thus, the environment bev
+
+=== PASSAGE 30 ===
+p@comes not only the subject of the work but also its material. From objects that originally served for action an
+
+=== PASSAGE 31 ===
+Ad alteration, hybrid forms emerge as testimonies of their encounter. Intervention in nature gives rise to something new while simultaneously destroying habitats. Human tools appear like trophies in a ceaseless hunt that leaves traces everywhere. The image connects the contrasting worlds of the modern world and fragile nature. Between nature and human design, function and form, use and decay, pastf
+
+=== PASSAGE 32 ===
+`@ and present perception, an intermediate space arises a new form in which both worlds overlap.
+
+=== PASSAGE 33 ===
+AIn addition to the image series, clay forms were created to support the presentation of the tools. Representing organic shapes like the structure of tree bark and the folds of a textile fabric, the clay arrangement is part of the contradition of  12 images, each
+
+=== PASSAGE 34 ===
+@35 x 50 cm First row: Water as solvent Second row: Onion skin as solvent Third row: Nettle leaves, some with soda as solvent Fourth row: Black tea, nettle leaves, and soda as solvents 1.2. Hybrid forms q
+
+=== PASSAGE 35 ===
+[A Hybrid Forms The second series of *Abbild* translates forms encountered in the surrounding landscape into layered compositions of print, drawing and textile elements. Organic shapes, collected through walks and filtered through memory, are reinterpreted through different printing techniques, including aquatint, etching and Tetra Pak printing. c
+
+=== PASSAGE 36 ===
+Y@ Different paper surfaces, including paper containing hay fibres, become part of the work
+
+=== PASSAGE 37 ===
+*As material language. Conductive yarns, threads and bands introduce lines that connect, interrupt and extend the printed forms. They move across the paper like paths or traces, creating relationships between otherwise separate fragments. The series brings together techniques and materials that opev
+
+=== PASSAGE 38 ===
+p@rate in different ways: the pressure of printing, the gradual tonal transitions of aquatint, the incisions of et
+
+=== PASSAGE 39 ===
+Aching, the irregularity of handmade paper and the linear structures of textile work. Each process leaves its own trace, while their combination produces forms that belong neither entirely to drawing, print nor textile. *Abbild* refers both to the act of making an impression and to the form that emerges from it. In this series, the image becomes a space in which the observed environment meets inne
+
+=== PASSAGE 40 ===
+@r recollection, and organic forms encounter constructed lines and technical materials. T KuBa residency Klein Warnow, 2026 2. The Alphabet of collective memory e
+
+=== PASSAGE 41 ===
+_@Alphabet of Collective Memory explores the body as a living archive of collective experience.
+
+=== PASSAGE 42 ===
+@The work integrates three hand gestures emerging from seventeen years of uprisings in Iran, transforming their transformation from a single common shape into different forms. Through handmade paper in combination
+
+=== PASSAGE 43 ===
+*@Acumin Variable Concept ExtraLight-194.286
+
+=== PASSAGE 44 ===
+2@Version 1.020;hotconv 1.0.108;makeotfexe 2.5.65593
+
+=== PASSAGE 45 ===
++@Acumin Variable Concept ExtraCondensed Thin
+
+=== PASSAGE 46 ===
+2@Acumin Variable Concept ExtraCondensed Thin Italic
+
+=== PASSAGE 47 ===
+1@Acumin Variable Concept ExtraCondensed ExtraLight
+
+=== PASSAGE 48 ===
+@ExtraCondensed ExtraLight Italic'
+
+=== PASSAGE 49 ===
+8@Acumin Variable Concept ExtraCondensed ExtraLight Italic
+
+=== PASSAGE 50 ===
+,@Acumin Variable Concept ExtraCondensed Light
+
+=== PASSAGE 51 ===
+3@Acumin Variable Concept ExtraCondensed Light Italic
+
+=== PASSAGE 52 ===
+&@Acumin Variable Concept ExtraCondensed
+
+=== PASSAGE 53 ===
+-@Acumin Variable Concept ExtraCondensed Italic
+
+=== PASSAGE 54 ===
+-@Acumin Variable Concept ExtraCondensed Medium
+
+=== PASSAGE 55 ===
+4@Acumin Variable Concept ExtraCondensed Medium Italic
+
+=== PASSAGE 56 ===
+/@Acumin Variable Concept ExtraCondensed Semibold
+
+=== PASSAGE 57 ===
+@ExtraCondensed Semibold Italic%
+
+=== PASSAGE 58 ===
+6@Acumin Variable Concept ExtraCondensed Semibold Italic
+
+=== PASSAGE 59 ===
++@Acumin Variable Concept ExtraCondensed Bold
+
+=== PASSAGE 60 ===
+2@Acumin Variable Concept ExtraCondensed Bold Italic
+
+=== PASSAGE 61 ===
+,@Acumin Variable Concept ExtraCondensed Black
+
+=== PASSAGE 62 ===
+3@Acumin Variable Concept ExtraCondensed Black Italic
+
+=== PASSAGE 63 ===
+1@Acumin Variable Concept ExtraCondensed UltraBlack
+
+=== PASSAGE 64 ===
+@ExtraCondensed UltraBlack Italic'
+
+=== PASSAGE 65 ===
+8@Acumin Variable Concept ExtraCondensed UltraBlack Italic
+
+=== PASSAGE 66 ===
+&@Acumin Variable Concept Condensed Thin
+
+=== PASSAGE 67 ===
+-@Acumin Variable Concept Condensed Thin Italic
+
+=== PASSAGE 68 ===
+,@Acumin Variable Concept Condensed ExtraLight
+
+=== PASSAGE 69 ===
+3@Acumin Variable Concept Condensed ExtraLight Italic
+
+=== PASSAGE 70 ===
+'@Acumin Variable Concept Condensed Light
+
+=== PASSAGE 71 ===
+.@Acumin Variable Concept Condensed Light Italic
+
+=== PASSAGE 72 ===
+!@Acumin Variable Concept Condensed
+
+=== PASSAGE 73 ===
+(@Acumin Variable Concept Condensed Italic
+
+=== PASSAGE 74 ===
+(@Acumin Variable Concept Condensed Medium
+
+=== PASSAGE 75 ===
+/@Acumin Variable Concept Condensed Medium Italic
+
+=== PASSAGE 76 ===
+*@Acumin Variable Concept Condensed Semibold
+
+=== PASSAGE 77 ===
+1@Acumin Variable Concept Condensed Semibold Italic
+
+=== PASSAGE 78 ===
+&@Acumin Variable Concept Condensed Bold
+
+=== PASSAGE 79 ===
+-@Acumin Variable Concept Condensed Bold Italic
+
+=== PASSAGE 80 ===
+'@Acumin Variable Concept Condensed Black
+
+=== PASSAGE 81 ===
+.@Acumin Variable Concept Condensed Black Italic
+
+=== PASSAGE 82 ===
+,@Acumin Variable Concept Condensed UltraBlack
+
+=== PASSAGE 83 ===
+3@Acumin Variable Concept Condensed UltraBlack Italic
+
+=== PASSAGE 84 ===
+*@Acumin Variable Concept SemiCondensed Thin
+
+=== PASSAGE 85 ===
+1@Acumin Variable Concept SemiCondensed Thin Italic
+
+=== PASSAGE 86 ===
+0@Acumin Variable Concept SemiCondensed ExtraLight
+
+=== PASSAGE 87 ===
+@SemiCondensed ExtraLight Italic&
+
+=== PASSAGE 88 ===
+7@Acumin Variable Concept SemiCondensed ExtraLight Italic
+
+=== PASSAGE 89 ===
++@Acumin Variable Concept SemiCondensed Light
+
+=== PASSAGE 90 ===
+2@Acumin Variable Concept SemiCondensed Light Italic
+
+=== PASSAGE 91 ===
+%@Acumin Variable Concept SemiCondensed
+
+=== PASSAGE 92 ===
+,@Acumin Variable Concept SemiCondensed Italic
+
+=== PASSAGE 93 ===
+,@Acumin Variable Concept SemiCondensed Medium
+
+=== PASSAGE 94 ===
+3@Acumin Variable Concept SemiCond
+
+=== PASSAGE 95 ===
+3@Acumin Variable Concept SemiCondensed Medium Italic
+
+=== PASSAGE 96 ===
+.@Acumin Variable Concept SemiCondensed Semibold
+
+=== PASSAGE 97 ===
+@SemiCondensed Semibold Italic$
+
+=== PASSAGE 98 ===
+5@Acumin Variable Concept SemiCondensed Semibold Italic
+
+=== PASSAGE 99 ===
+*@Acumin Variable Concept SemiCondensed Bold
+
+=== PASSAGE 100 ===
+1@Acumin Variable Concept SemiCondensed Bold Italic
+
+=== PASSAGE 101 ===
++@Acumin Variable Concept SemiCondensed Black
+
+=== PASSAGE 102 ===
+2@Acumin Variable Concept SemiCondensed Black Italic
+
+=== PASSAGE 103 ===
+0@Acumin Variable Concept SemiCondensed UltraBlack
+
+=== PASSAGE 104 ===
+@SemiCondensed UltraBlack Italic&
+
+=== PASSAGE 105 ===
+7@Acumin Variable Concept SemiCondensed UltraBlack Italic
+
+=== PASSAGE 106 ===
+#@Acumin Variable Concept Thin Italic
+
+=== PASSAGE 107 ===
+"@Acumin Variable Concept ExtraLight
+
+=== PASSAGE 108 ===
+)@Acumin Variable Concept ExtraLight Italic
+
+=== PASSAGE 109 ===
+$@Acumin Variable Concept Light Italic
+
+=== PASSAGE 110 ===
+@Acumin Variable Concept Regular
+
+=== PASSAGE 111 ===
+@Acumin Variable Concept Italic
+
+=== PASSAGE 112 ===
+@Acumin Variable Concept Medium
+
+=== PASSAGE 113 ===
+%@Acumin Variable Concept Medium Italic
+
+=== PASSAGE 114 ===
+@Acumin Variable Concept Semibold
+
+=== PASSAGE 115 ===
+'@Acumin Variable Concept Semibold Italic
+
+=== PASSAGE 116 ===
+#@Acumin Variable Concept Bold Italic
+
+=== PASSAGE 117 ===
+$@Acumin Variable Concept Black Italic
+
+=== PASSAGE 118 ===
+"@Acumin Variable Concept UltraBlack
+
+=== PASSAGE 119 ===
+)@Acumin Variable Concept UltraBlack Italic
+
+=== PASSAGE 120 ===
+!@Acumin Variable Concept Wide Thin
+
+=== PASSAGE 121 ===
+(@Acumin Variable Concept Wide Thin Italic
+
+=== PASSAGE 122 ===
+'@Acumin Variable Concept Wide ExtraLight
+
+=== PASSAGE 123 ===
+.@Acumin Variable Concept Wide ExtraLight Italic
+
+=== PASSAGE 124 ===
+"@Acumin Variable Concept Wide Light
+
+=== PASSAGE 125 ===
+)@Acumin Variable Concept Wide Light Italic
+
+=== PASSAGE 126 ===
+#@Acumin Variable Concept Wide Italic
+
+=== PASSAGE 127 ===
+#@Acumin Variable Concept Wide Medium
+
+=== PASSAGE 128 ===
+j@Contact details  hello@latensandforma.com Instagram: https://www.instagram.com/latens_forma/ Linkedin: I
+
+=== PASSAGE 129 ===
+C@https://ch.linkedin.com/in/mitra-romina-karimi-6b5bab140 Youtube: $
+
+=== PASSAGE 130 ===
+iable Concept Wide Medium Italic
+
+=== PASSAGE 131 ===
+*@Acumin Variable Concept Wide Medium Italic
+
+=== PASSAGE 132 ===
+%@Acumin Variable Concept Wide Semibold
+
+=== PASSAGE 133 ===
+,@Acumin Variable Concept Wide Semibold Italic
+
+=== PASSAGE 134 ===
+!@Acumin Variable Concept Wide Bold
+
+=== PASSAGE 135 ===
+(@Acumin Variable Concept Wide Bold Italic
+
+=== PASSAGE 136 ===
+"@Acumin Variable Concept Wide Black
+
+=== PASSAGE 137 ===
+)@Acumin Variable Concept Wide Black Italic
+
+=== PASSAGE 138 ===
+'@Acumin Variable Concept Wide UltraBlack
+
+=== PASSAGE 139 ===
+.@Acumin Variable Concept Wide UltraBlack Italic
+
+=== PASSAGE 140 ===
+Aor Romina Karimi is the founder of Latens & Forma, a transdisciplinary art and design studio based in Zurich. With a background in fashion and textile design, jewellery, art and art education, her practice moves between materials, techniques and disciplines. She works with paper, textiles, ceramics, metal and drawing, combining traditional craft with digital fabrication and emerging tt
+
+=== PASSAGE 141 ===
+n@echnologies. Through hands-on experimentation, she explores how materials behave, change and interact, where s
+
+=== PASSAGE 142 ===
+@urfaces meet, forms emerge and the boundaries between materials begin to blur.  Latens & Forma is a space for this ongoing exploration, where art, design and material research meet and inform one another.
+
+=== PASSAGE 143 ===
+@Meysam Hame-ei Brand Director  An awardwinning graphic Designer, painter and multidisciplinary artist based in Tehran Amir Boroumand Scientific Consult  ~
+
+=== PASSAGE 144 ===
+@Meysam Hame-ei Brand Director  An awardwinning graphic Designer, painter and multidisciplinary artist based in Tehran Amir Boroumand Scientific Consult  |
+
+=== PASSAGE 145 ===
+b@ latensandforma.com https://latensandforma.com A Transdisciplinary Design Studio based in Zurich p
+
+=== PASSAGE 146 ===
+4@Title: the beauty of withering Text: coming soon 4
+
+=== PASSAGE 147 ===
+@Contact details  email: hello@latensandforma.com Office: 8049 Zurich Social media: Instagram: https://www.instagram.com/latens_forma/ Linkedin: g
+
+=== PASSAGE 148 ===
+a@https://ch.linkedin.com/in/mitra-romina-karimi-6b5bab140 Youtube: https://youtu.be/q7U7Hye2KZU
+
+=== PASSAGE 149 ===
+Copyright (c) 1998 Hewlett-Packard Company
+
+=== PASSAGE 150 ===
+.IEC 61966-2.1 Default RGB colour space - sRGB
+
+=== PASSAGE 151 ===
+,Reference Viewing Condition in IEC61966-2.1
+
+=== PASSAGE 152 ===
+E@Projects: KuBa residency Klein Warnow, 2026 Paperlab residencj
+
+=== PASSAGE 153 ===
+dAy Sardinia, 2025 An experimental investigation into the material possibilities of paper. Through cutting, layering, cocooning and surface treatments, the studies explore gradations, textures and the transition from flat surfaces to sculptural forms. The work approaches paper as a skin, but as a skin, whose behaviour, resistance and potential emerge thro!
+
+=== PASSAGE 154 ===
+j@Contact details  hello@latensandforma.com Instagram: https://www.instagram.com/latens_forma/ Linkedin: @
+
+=== PASSAGE 155 ===
+ARomina Karimi Romina Karimi is the founder of Latens & Forma, a transdisciplinary art and design studio based in Zurich. With a background in fashion and textile design, jewellery, art and art education, her practice moves between materials, techniques and disciplines. She works with paper, textiles, ceramics, metal and drawing, combining traditional craft with digital fabrication and emerging tt
+
+=== PASSAGE 156 ===
+AProjects: 1. Abbild The series with 12 cyanotype artworks is created from the immediate surroundings of the KuBa Cultural Railway Station in Klein Warnow. Rusted tools found in the surrounding area encounter fragile plants. A fragmentary inventory of the site emerges in four rows.
+
+=== PASSAGE 157 ===
+Ad alteration, hybrid forms emerge as testimonies of their encounter. Intervention in nature gives rise to something new while simultaneously destroying habitats. Human tools appear like trophies in a ceaseless hunt that leaves traces everywhere. The image connects the contrasting worlds of the modern world and fragile nature. Between nature and human design, function and form, use and decay, pastv
+
+=== PASSAGE 158 ===
+p@ and present perception, an intermediate space arises a new form in which both worlds overlap. 12 images, each
+
+=== PASSAGE 159 ===
+A35 x 50 cm First row: Water as solvent Second row: Onion skin as solvent Third row: Nettle leaves, some with soda as solvent Fourth row: Black tea, nettle leaves, and soda as solvents KuBa residency Klein Warnow, 2026 2. The Alphabet of collective memory
+
+=== PASSAGE 160 ===
+AAlphabet of Collective Memory explores the body as a living archive of collective experience. The work integrates three hand gestures emerging from seventeen years of uprisings in Iran, transforming their transformation from a single common shape into different forms. Through handmade paper, mould-making, embroidery, mesh and metal threads, each gesture unfolds across a sequence of forms, moving
+
+=== PASSAGE 161 ===
+Afrom latent potential towards a recognizable sign. The fragments become an alphabet of embodied memory, where gesture, material and history meet. The work asks how a bodily movement becomes language, and how individual experience can take form as collective memory. l
+
+=== PASSAGE 162 ===
+fA 3. Paper as skin An experimental investigation into the material possibilities of paper. Through cutting, layering, cocooning and surface treatments, the studies explore gradations, textures and the transition from flat surfaces to sculptural forms. The work approaches paper as a skin, but as a skin, whose behaviour, resistance and potential emerge throE
+
+=== PASSAGE 163 ===
+?@ugh the process of making. Paperlab residency Sardinia, 2025 Z
+
+=== PASSAGE 164 ===
+urce">                   <stFnt:fontName>Avenir-HeavyOblique</stFnt:fontName>                   <stFnt:fontFamily>Avenir</stFnt:fontFamily>                   <stFnt:fontFace>Heavy Oblique</stFnt:fontFace>                   <stFnt:fontType>TrueType</stFnt:fontType>                   <stFnt:versionString>Avenir-HeavyOblique13.0d3e1</stFnt:versionString>                   <stFnt:composite>false</stFnt:composite>                   <stFnt:fontFileName>Avenir.ttc</stFnt:fontFileName>                </rdf:li>             </rdf:Bag>          </xmpTPg:Fonts>       </rdf:Description>    </rdf:RDF> </x:xmpmeta>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 <?xpacket end="w"?>
+

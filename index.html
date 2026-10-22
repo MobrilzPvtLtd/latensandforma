@@ -1,0 +1,807 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- SEO & Branding Requirements -->
+  <title>Latens and Forma — A Transdisciplinary Design Studio based in Zurich</title>
+  <meta name="description" content="Latens & Forma is a transdisciplinary design studio based in Zurich, Switzerland. Exploring material research, traditional crafts, cyanotypes, fiber sculptures, and collective memory.">
+  <meta name="keywords" content="Latens and Forma, Transdisciplinary Design Studio, Zurich Art Studio, Romina Karimi, Material Research, Cyanotype, Paper Art, Collective Memory">
+  <meta name="author" content="Romina Karimi / Latens & Forma">
+
+  <!-- Browser Favicon: Exact supplied 5-dot cross symbol -->
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  <link rel="alternate icon" href="assets/favicon.svg">
+
+  <!-- Typography: Plus Jakarta Sans (Clean European Grotesque matching TT Interphases Pro) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- MINIMALIST SITE HEADER -->
+  <header class="site-header">
+    <div class="header-container">
+      <a href="#home" data-route="home" class="brand-link" title="Latens and Forma">
+        <img src="assets/logo.svg" alt="LATENS ⁘ FORMA" class="brand-logo">
+      </a>
+
+      <!-- Exact 5 sections as named by the client: Home | Projects | About | Blog | Contact -->
+      <nav class="main-nav">
+        <a href="#home" data-route="home" data-nav="home" class="nav-item active">Home</a>
+        <span class="nav-divider">|</span>
+        <a href="#projects" data-route="projects" data-nav="projects" class="nav-item">Projects</a>
+        <span class="nav-divider">|</span>
+        <a href="#about" data-route="about" data-nav="about" class="nav-item">About</a>
+        <span class="nav-divider">|</span>
+        <a href="#blog" data-route="blog" data-nav="blog" class="nav-item">Blog</a>
+        <span class="nav-divider">|</span>
+        <a href="#contact" data-route="contact" data-nav="contact" class="nav-item">Contact</a>
+      </nav>
+
+      <button class="mobile-btn" aria-label="Toggle Menu">☰</button>
+    </div>
+  </header>
+
+  <!-- MAIN VIEWPORT CONTAINER -->
+  <main class="site-main">
+
+    <!-- ======================================================================
+         1. HOME PAGE
+         SOW: "Introduce the studio, its artistic vision, and selected artwork."
+         Simplicity inspired by Alix Arto and Barbara Wildenboer
+         ====================================================================== -->
+    <section id="view-home" class="view-panel active-panel">
+      <div class="page-container">
+        
+        <!-- Studio Introduction & Artistic Vision -->
+        <div class="home-intro-block">
+          <h1 class="page-title">A Transdisciplinary Design Studio based in Zurich.</h1>
+          <p class="home-statement">
+            Latens & Forma is a space where art, design and material research meet and inform one another.
+          </p>
+          <p class="home-subtext">
+            Combining traditional craft with emerging technologies, the studio explores how materials behave, change and interact — where surfaces meet, forms emerge, and the conventional boundaries between disciplines begin to blur.
+          </p>
+        </div>
+
+        <!-- Selected Artwork Stream -->
+        <div class="artwork-stream">
+          
+          <!-- Selected Artwork 1: Abbild I -->
+          <div class="artwork-row">
+            <div class="artwork-media" data-route="project-abbild-1">
+              <img src="assets/projects/abbild-cover.jpg" alt="Abbild I — Cyanotypes & Solvents">
+            </div>
+            <div class="artwork-caption">
+              <span class="artwork-year">2026 &middot; KuBa Cultural Railway Station, Klein Warnow</span>
+              <h2 class="artwork-title">Abbild I — Cyanotypes & Solvents</h2>
+              <p class="artwork-desc">
+                A 12-artwork cyanotype inventory created from the immediate natural surroundings of the KuBa station. Rusted tools encounter fragile plants in four rows of natural solvent formulations: water, onion skin, nettle, black tea, and soda.
+              </p>
+              <a href="#project-abbild-1" data-route="project-abbild-1" class="artwork-link">View Project & Specs &rarr;</a>
+            </div>
+          </div>
+
+          <!-- Selected Artwork 2: The Alphabet of Collective Memory -->
+          <div class="artwork-row reverse">
+            <div class="artwork-media" data-route="project-alphabet">
+              <img src="assets/projects/alphabet-cover.jpg" alt="The Alphabet of Collective Memory">
+            </div>
+            <div class="artwork-caption">
+              <span class="artwork-year">2024–2026 &middot; Living Archive</span>
+              <h2 class="artwork-title">The Alphabet of Collective Memory</h2>
+              <p class="artwork-desc">
+                Explores the body as a living archive of collective experience. Integrates three hand gestures emerging from seventeen years of uprisings in Iran, transforming into an alphabet of embodied forms in handmade paper, copper yarns, and silver Persian words.
+              </p>
+              <a href="#project-alphabet" data-route="project-alphabet" class="artwork-link">View Project & Specs &rarr;</a>
+            </div>
+          </div>
+
+          <!-- Selected Artwork 3: Paper as Skin -->
+          <div class="artwork-row">
+            <div class="artwork-media" data-route="project-paper-skin">
+              <img src="assets/projects/paper-skin-cover.jpg" alt="Paper as Skin">
+            </div>
+            <div class="artwork-caption">
+              <span class="artwork-year">2025–2026 &middot; Paperlab Sardinia & Croatia</span>
+              <h2 class="artwork-title">Paper as Skin</h2>
+              <p class="artwork-desc">
+                An experimental investigation into the material possibilities of paper. Approaching paper not simply as a surface, but as a living skin whose behavior, resistance, and sculptural potential emerge through cutting, layering, and cocooning.
+              </p>
+              <a href="#project-paper-skin" data-route="project-paper-skin" class="artwork-link">View Project & Specs &rarr;</a>
+            </div>
+          </div>
+
+          <!-- Selected Artwork 4: Abbild II -->
+          <div class="artwork-row reverse">
+            <div class="artwork-media" data-route="project-abbild-2">
+              <img src="assets/projects/abbild-hybrid-cover.jpg" alt="Abbild II — Hybrid Forms">
+            </div>
+            <div class="artwork-caption">
+              <span class="artwork-year">2026 &middot; KuBa Residency</span>
+              <h2 class="artwork-title">Abbild II — Hybrid Forms</h2>
+              <p class="artwork-desc">
+                Layered compositions of aquatint, etching, and Tetra Pak printing onto handcrafted paper containing embedded hay fibres. A dialogue between constructed mark-making and organic imperfection.
+              </p>
+              <a href="#project-abbild-2" data-route="project-abbild-2" class="artwork-link">View Project & Specs &rarr;</a>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         2. PROJECTS OVERVIEW PAGE
+         SOW: "Create a portfolio overview and four individual project pages"
+         ====================================================================== -->
+    <section id="view-projects" class="view-panel">
+      <div class="page-container">
+        <h1 class="page-title">Projects</h1>
+        <div class="page-intro">
+          <p>Portfolio overview of recent residency bodies, material research investigations, and sculptural archives.</p>
+        </div>
+
+        <div class="projects-grid">
+          
+          <!-- Project 1 -->
+          <div class="project-item" data-route="project-abbild-1">
+            <div class="project-thumb">
+              <img src="assets/projects/abbild-cover.jpg" alt="Abbild I">
+            </div>
+            <div class="project-info-line">
+              <h3 class="project-item-title">Abbild I — Cyanotypes & Solvents</h3>
+              <span class="project-item-year">2026</span>
+            </div>
+            <p class="project-item-meta">KuBa Residency Klein Warnow &middot; 12 Unique Cyanotype Works</p>
+          </div>
+
+          <!-- Project 2 -->
+          <div class="project-item" data-route="project-abbild-2">
+            <div class="project-thumb">
+              <img src="assets/projects/abbild-hybrid-cover.jpg" alt="Abbild II — Hybrid Forms">
+            </div>
+            <div class="project-info-line">
+              <h3 class="project-item-title">Abbild II — Hybrid Forms</h3>
+              <span class="project-item-year">2026</span>
+            </div>
+            <p class="project-item-meta">Aquatint, Etching, Tetra Pak Printing on Hay Paper</p>
+          </div>
+
+          <!-- Project 3 -->
+          <div class="project-item" data-route="project-alphabet">
+            <div class="project-thumb">
+              <img src="assets/projects/alphabet-cover.jpg" alt="The Alphabet of Collective Memory">
+            </div>
+            <div class="project-info-line">
+              <h3 class="project-item-title">The Alphabet of Collective Memory</h3>
+              <span class="project-item-year">2024–26</span>
+            </div>
+            <p class="project-item-meta">Handmade Paper, Mould-Making, Copper Yarns & Silver Words</p>
+          </div>
+
+          <!-- Project 4 -->
+          <div class="project-item" data-route="project-paper-skin">
+            <div class="project-thumb">
+              <img src="assets/projects/paper-skin-cover.jpg" alt="Paper as Skin">
+            </div>
+            <div class="project-info-line">
+              <h3 class="project-item-title">Paper as Skin</h3>
+              <span class="project-item-year">2025–26</span>
+            </div>
+            <p class="project-item-meta">Paperlab Sardinia & Croatia &middot; Cutting, Layering, Cocooning</p>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         INDIVIDUAL PROJECT 1: ABBILD I — CYANOTYPES & SOLVENTS
+         ====================================================================== -->
+    <section id="view-project-abbild-1" class="view-panel">
+      <div class="page-container">
+        
+        <div class="project-detail-header">
+          <a href="#projects" data-route="projects" class="back-to-projects">&larr; Back to Projects</a>
+          <h1 class="project-detail-title">Abbild I — Cyanotypes & Solvents</h1>
+          
+          <div class="project-specs-bar">
+            <div class="spec-cell">
+              <strong>Residency</strong>
+              <span>KuBa Cultural Railway Station, Klein Warnow</span>
+            </div>
+            <div class="spec-cell">
+              <strong>Year</strong>
+              <span>2026</span>
+            </div>
+            <div class="spec-cell">
+              <strong>Medium</strong>
+              <span>Cyanotype on Fine Paper, Natural Solvents</span>
+            </div>
+            <div class="spec-cell">
+              <strong>Dimensions</strong>
+              <span>12 images, each 35 &times; 50 cm</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="project-body-grid">
+          <!-- Curatorial Content -->
+          <div class="project-text">
+            <p>
+              The series with 12 cyanotype artworks is created from the immediate surroundings of the KuBa Cultural Railway Station in Klein Warnow. Rusted tools found in the surrounding area encounter fragile plants. A fragmentary inventory of the site emerges in four rows.
+            </p>
+            <p>
+              Through contact and alteration, hybrid forms emerge as testimonies of their encounter. Intervention in nature gives rise to something new while simultaneously destroying habitats. Human tools appear like trophies in a ceaseless hunt that leaves traces everywhere.
+            </p>
+            <p>
+              The image connects the contrasting worlds of the modern industrial world and fragile nature. Between nature and human design, function and form, use and decay, past and present perception, an intermediate space arises — a new form in which both worlds overlap.
+            </p>
+
+            <h3 style="font-size: 1.1rem; color: var(--color-primary); margin-top: 32px; margin-bottom: 12px; font-weight: 500;">
+              Solvent System (No Chemical Dyes)
+            </h3>
+            <p style="font-size: 0.92rem; color: var(--color-text-muted);">
+              Materials found in the immediate surroundings: onion skin, nettle, black tea, and soda are used to evoke the color values and their transformations:
+            </p>
+
+            <table class="solvent-matrix-table">
+              <thead>
+                <tr>
+                  <th style="width: 120px;">Row</th>
+                  <th>Solvent Formulation</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>First Row</strong></td>
+                  <td>Water as solvent</td>
+                </tr>
+                <tr>
+                  <td><strong>Second Row</strong></td>
+                  <td>Onion skin as solvent</td>
+                </tr>
+                <tr>
+                  <td><strong>Third Row</strong></td>
+                  <td>Nettle leaves, some with soda as solvent</td>
+                </tr>
+                <tr>
+                  <td><strong>Fourth Row</strong></td>
+                  <td>Black tea, nettle leaves, and soda as solvents</td>
+                </tr>
+              </tbody>
+            </table>
+
+            <!-- Gallery -->
+            <div class="project-gallery-stream">
+              <div class="gallery-photo" data-zoom="assets/projects/abbild-cover.jpg" data-caption="Abbild I — Full 12-Work Installation Matrix">
+                <img src="assets/projects/abbild-cover.jpg" alt="Abbild I Installation Matrix">
+              </div>
+              <div class="gallery-photo" data-zoom="assets/projects/abbild-blue-1.jpg" data-caption="Abbild I — Cyanotype Detail on Handcrafted Paper">
+                <img src="assets/projects/abbild-blue-1.jpg" alt="Abbild I Detail">
+              </div>
+              <div class="gallery-photo" data-zoom="assets/projects/abbild-install-1.jpg" data-caption="Abbild I — Light and Solvent Reaction">
+                <img src="assets/projects/abbild-install-1.jpg" alt="Abbild I Light Interaction">
+              </div>
+            </div>
+          </div>
+
+          <!-- Inquiry Column (SOW Requirement on each project page) -->
+          <div>
+            <div class="project-inquiry-box">
+              <h3>Artwork Inquiry</h3>
+              <p>For acquisition inquiries, exhibition loans, or technical questions regarding this series, please submit an inquiry directly to the studio.</p>
+              <button class="btn-inquire" data-open-inquiry data-project="Abbild I — Cyanotypes & Solvents">
+                Inquire About This Piece
+              </button>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         INDIVIDUAL PROJECT 2: ABBILD II — HYBRID FORMS
+         ====================================================================== -->
+    <section id="view-project-abbild-2" class="view-panel">
+      <div class="page-container">
+        
+        <div class="project-detail-header">
+          <a href="#projects" data-route="projects" class="back-to-projects">&larr; Back to Projects</a>
+          <h1 class="project-detail-title">Abbild II — Hybrid Forms</h1>
+          
+          <div class="project-specs-bar">
+            <div class="spec-cell">
+              <strong>Residency</strong>
+              <span>KuBa Cultural Railway Station, Klein Warnow</span>
+            </div>
+            <div class="spec-cell">
+              <strong>Year</strong>
+              <span>2026</span>
+            </div>
+            <div class="spec-cell">
+              <strong>Techniques</strong>
+              <span>Aquatint, Etching, Tetra Pak Printing</span>
+            </div>
+            <div class="spec-cell">
+              <strong>Substrate</strong>
+              <span>Handcrafted Paper containing Hay Fibres, Textiles</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="project-body-grid">
+          <div class="project-text">
+            <p>
+              The second series of <em>Abbild</em> translates forms encountered in the surrounding landscape into layered compositions of print, drawing and textile elements. Organic shapes, collected through walks and filtered through memory, are reinterpreted through different printing techniques, including aquatint, etching and Tetra Pak printing.
+            </p>
+            <p>
+              Different paper surfaces, including paper containing hay fibres, become part of the work’s material language. A tension arises between technical mark-making and natural imperfection, recollected forms and immediate tactile materiality.
+            </p>
+
+            <div class="project-gallery-stream">
+              <div class="gallery-photo" data-zoom="assets/projects/abbild-hybrid-cover.jpg" data-caption="Abbild II — Layered Composition">
+                <img src="assets/projects/abbild-hybrid-cover.jpg" alt="Abbild II Layering">
+              </div>
+              <div class="gallery-photo" data-zoom="assets/projects/abbild-aquatint.jpg" data-caption="Abbild II — Aquatinta Print on Hay Fiber Paper">
+                <img src="assets/projects/abbild-aquatint.jpg" alt="Aquatinta Print">
+              </div>
+              <div class="gallery-photo" data-zoom="assets/projects/abbild-hybrid-hands.jpg" data-caption="Abbild II — Tactile Textile Study">
+                <img src="assets/projects/abbild-hybrid-hands.jpg" alt="Textile Touch">
+              </div>
+              <div class="gallery-photo" data-zoom="assets/projects/abbild-hybrid-magnolia.jpg" data-caption="Abbild II — Magnolia Tetra Pak Study">
+                <img src="assets/projects/abbild-hybrid-magnolia.jpg" alt="Magnolia Tetra Pak">
+              </div>
+            </div>
+          </div>
+
+          <div>
+            <div class="project-inquiry-box">
+              <h3>Artwork Inquiry</h3>
+              <p>For acquisition inquiries, exhibition loans, or technical questions regarding this series, please submit an inquiry directly to the studio.</p>
+              <button class="btn-inquire" data-open-inquiry data-project="Abbild II — Hybrid Forms">
+                Inquire About This Piece
+              </button>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         INDIVIDUAL PROJECT 3: THE ALPHABET OF COLLECTIVE MEMORY
+         ====================================================================== -->
+    <section id="view-project-alphabet" class="view-panel">
+      <div class="page-container">
+        
+        <div class="project-detail-header">
+          <a href="#projects" data-route="projects" class="back-to-projects">&larr; Back to Projects</a>
+          <h1 class="project-detail-title">The Alphabet of Collective Memory</h1>
+          
+          <div class="project-specs-bar">
+            <div class="spec-cell">
+              <strong>Context</strong>
+              <span>17 Years of Civil Movements in Iran</span>
+            </div>
+            <div class="spec-cell">
+              <strong>Year</strong>
+              <span>2024–2026</span>
+            </div>
+            <div class="spec-cell">
+              <strong>Medium</strong>
+              <span>Handmade Paper, Mould-Making, Hand Embroidery</span>
+            </div>
+            <div class="spec-cell">
+              <strong>Metals</strong>
+              <span>Woven Copper Yarns & 925 Silver Wire Words</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="project-body-grid">
+          <div class="project-text">
+            <p>
+              <em>The Alphabet of Collective Memory</em> explores the body as a living archive of collective experience. The work integrates three hand gestures emerging from seventeen years of uprisings in Iran, transforming from a single common shape into an alphabet of embodied forms.
+            </p>
+            <p>
+              Through handmade paper, mould-making, embroidery, mesh and metal threads, each gesture unfolds across a sequence of forms, moving from latent potential towards a recognizable sign. The fragments become an alphabet of embodied memory, where gesture, material and history meet.
+            </p>
+            <p>
+              The connecting points of the different stages are filled with woven copper yarns and Persian words made out of silver. The words behave oppositely to the evolution of the hand shapes: as the gestures solidify, language questions memory, resistance, and how individual trauma crystallizes as collective memory.
+            </p>
+
+            <div class="project-gallery-stream">
+              <div class="gallery-photo" data-zoom="assets/projects/alphabet-cover.jpg" data-caption="The Alphabet of Collective Memory — Main Sculptural Hand Gesture">
+                <img src="assets/projects/alphabet-cover.jpg" alt="Alphabet of Collective Memory">
+              </div>
+              <div class="gallery-photo" data-zoom="assets/projects/alphabet-1.jpg" data-caption="Copper Yarns and Paper Mesh Detail">
+                <img src="assets/projects/alphabet-1.jpg" alt="Copper Yarns Detail">
+              </div>
+              <div class="gallery-photo" data-zoom="assets/projects/alphabet-2.jpg" data-caption="Silver Wire Persian Words Integration">
+                <img src="assets/projects/alphabet-2.jpg" alt="Silver Wire Words">
+              </div>
+            </div>
+          </div>
+
+          <div>
+            <div class="project-inquiry-box">
+              <h3>Artwork Inquiry</h3>
+              <p>For exhibition loans, institutional acquisitions, or curatorial research regarding this installation, please submit an inquiry directly to the studio.</p>
+              <button class="btn-inquire" data-open-inquiry data-project="The Alphabet of Collective Memory">
+                Inquire About This Piece
+              </button>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         INDIVIDUAL PROJECT 4: PAPER AS SKIN
+         ====================================================================== -->
+    <section id="view-project-paper-skin" class="view-panel">
+      <div class="page-container">
+        
+        <div class="project-detail-header">
+          <a href="#projects" data-route="projects" class="back-to-projects">&larr; Back to Projects</a>
+          <h1 class="project-detail-title">Paper as Skin</h1>
+          
+          <div class="project-specs-bar">
+            <div class="spec-cell">
+              <strong>Residency</strong>
+              <span>Paperlab Sardinia (2025) & Croatia (2026)</span>
+            </div>
+            <div class="spec-cell">
+              <strong>Year</strong>
+              <span>2025–2026</span>
+            </div>
+            <div class="spec-cell">
+              <strong>Fibers</strong>
+              <span>Japanese Kozo, Wild Olive Paper, Raw Pulp</span>
+            </div>
+            <div class="spec-cell">
+              <strong>Methods</strong>
+              <span>Cutting, Layering, Cocooning, Surface Treatments</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="project-body-grid">
+          <div class="project-text">
+            <p>
+              An experimental investigation into the material possibilities of paper. Through cutting, layering, cocooning and surface treatments, the studies explore gradations, textures and the transition from flat surfaces to sculptural forms.
+            </p>
+            <p>
+              The work approaches paper not simply as an inert carrier, but as a skin whose behavior, resistance, and potential emerge through the process of making.
+            </p>
+            <p>
+              These experiments set the foundation for ongoing studio investigations into paper as a medium moving freely between drawing, surface, and three-dimensional architectural object.
+            </p>
+
+            <div class="project-gallery-stream">
+              <div class="gallery-photo" data-zoom="assets/projects/paper-skin-cover.jpg" data-caption="Paper as Skin — Sculptural Gradation Study">
+                <img src="assets/projects/paper-skin-cover.jpg" alt="Paper as Skin">
+              </div>
+              <div class="gallery-photo" data-zoom="assets/projects/paper-skin-1.jpg" data-caption="Gradient Cut Matrix 01">
+                <img src="assets/projects/paper-skin-1.jpg" alt="Gradient 1">
+              </div>
+              <div class="gallery-photo" data-zoom="assets/projects/paper-skin-2.jpg" data-caption="Wild Olive Paper Tactility">
+                <img src="assets/projects/paper-skin-2.jpg" alt="Olive Paper">
+              </div>
+              <div class="gallery-photo" data-zoom="assets/projects/paper-skin-kozo.jpg" data-caption="Kozo Fiber Cocooning">
+                <img src="assets/projects/paper-skin-kozo.jpg" alt="Kozo Fiber">
+              </div>
+            </div>
+          </div>
+
+          <div>
+            <div class="project-inquiry-box">
+              <h3>Artwork Inquiry</h3>
+              <p>For exhibition loans, acquisitions, or technical questions regarding this series, please submit an inquiry directly to the studio.</p>
+              <button class="btn-inquire" data-open-inquiry data-project="Paper as Skin">
+                Inquire About This Piece
+              </button>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         3. ABOUT PAGE
+         SOW: "Add the studio introduction and at least three co-creator profiles
+         with photographs, biographies, and roles."
+         ====================================================================== -->
+    <section id="view-about" class="view-panel">
+      <div class="page-container about-section">
+        <h1 class="page-title">About</h1>
+
+        <!-- Studio Introduction -->
+        <div class="about-intro-text">
+          <p>
+            Latens & Forma is a transdisciplinary art and design studio based in Zurich, founded by Romina Karimi.
+          </p>
+          <p>
+            With a background in fashion and textile design, jewelry, art and art education, the practice moves between materials, techniques and disciplines. The studio works with paper, textiles, ceramics, metal and drawing, combining traditional craft with digital fabrication and emerging technologies.
+          </p>
+          <p>
+            Through hands-on experimentation, the studio explores how materials behave, change and interact, where surfaces meet, forms emerge and the boundaries between materials begin to blur. Latens & Forma is a space for this ongoing exploration, where art, design and material research meet and inform one another.
+          </p>
+        </div>
+
+        <h2 style="font-size: 1.4rem; color: var(--color-primary); font-weight: 500; margin-bottom: 32px; border-top: 1px solid var(--color-border); padding-top: 40px;">
+          Co-Creators
+        </h2>
+
+        <!-- Co-Creator Profiles (At least three as required by SOW) -->
+        <div class="team-list">
+          
+          <!-- Creator 1: Romina Karimi -->
+          <div class="team-member-row">
+            <div class="team-portrait">
+              <img src="assets/team/romina.jpg" alt="Romina Karimi">
+            </div>
+            <div class="team-info">
+              <h3>Romina Karimi</h3>
+              <span class="team-role">Founder & Creative Director &middot; Zurich</span>
+              <div class="team-bio">
+                <p>
+                  Romina Karimi is the founder of Latens & Forma, a transdisciplinary art and design studio based in Zurich. With a background in fashion and textile design, jewellery, art and art education, her practice moves between materials, techniques and disciplines.
+                </p>
+                <p>
+                  She works with paper, textiles, ceramics, metal and drawing, combining traditional craft with digital fabrication and emerging technologies. She explores how surfaces meet, forms emerge, and material boundaries blur.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Creator 2: Meysam Hame-ei -->
+          <div class="team-member-row">
+            <div class="team-portrait">
+              <img src="assets/team/meysam.jpg" alt="Meysam Hame-ei">
+            </div>
+            <div class="team-info">
+              <h3>Meysam Hame-ei</h3>
+              <span class="team-role">Brand Director &middot; Tehran</span>
+              <div class="team-bio">
+                <p>
+                  An award-winning graphic designer, painter and multidisciplinary artist based in Tehran. Meysam directs the studio’s brand identity, typographic architecture, and publication design.
+                </p>
+                <p>
+                  His work investigates the tension between historical script traditions, modernist structures, and experimental print languages.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Creator 3: Amir Boroumand -->
+          <div class="team-member-row">
+            <div class="team-portrait" style="display: flex; align-items: center; justify-content: center; background: #e8e4ec;">
+              <span style="font-size: 2rem; color: var(--color-primary); font-weight: 300;">AB</span>
+            </div>
+            <div class="team-info">
+              <h3>Amir Boroumand</h3>
+              <span class="team-role">Scientific Consultant</span>
+              <div class="team-bio">
+                <p>
+                  Amir Boroumand collaborates with Latens & Forma as scientific consultant on material research, solvent formulations, natural chemical extraction, and substrate behavior.
+                </p>
+                <p>
+                  His consultation informs the studio’s empirical solvent matrices (including the four-tier plant and tannin solutions used in cyanotype works) and the chemical longevity of experimental fiber substrates.
+                </p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         4. BLOG PAGE
+         SOW: "Display the three supplied drawings initially with “Coming Soon” 
+         content; enable future blog publishing through WordPress."
+         ====================================================================== -->
+    <section id="view-blog" class="view-panel">
+      <div class="page-container">
+        
+        <div class="blog-intro-block">
+          <span class="blog-coming-soon-notice">Coming Soon</span>
+          <h1 class="page-title">The Beauty of Withering</h1>
+          <p class="page-intro" style="margin-bottom: 20px;">
+            Preliminary drawing studies documenting organic decay, plant morphology, and the material transition from organism to graphic sign.
+          </p>
+        </div>
+
+        <!-- Three Supplied Client Drawings (SOW Requirement) -->
+        <div class="blog-drawings-container">
+          
+          <div class="drawing-item" data-zoom="assets/blog/drawing-1.jpg" data-caption="The Beauty of Withering — Drawing 01">
+            <div class="drawing-box">
+              <img src="assets/blog/drawing-1.jpg" alt="Drawing 01">
+            </div>
+            <h3 class="drawing-caption-title">Drawing Study 01</h3>
+            <span class="drawing-caption-meta">Ink & graphite on paper</span>
+          </div>
+
+          <div class="drawing-item" data-zoom="assets/blog/drawing-2.jpg" data-caption="The Beauty of Withering — Drawing 02">
+            <div class="drawing-box">
+              <img src="assets/blog/drawing-2.jpg" alt="Drawing 02">
+            </div>
+            <h3 class="drawing-caption-title">Drawing Study 02</h3>
+            <span class="drawing-caption-meta">Linear skeletal study</span>
+          </div>
+
+          <div class="drawing-item" data-zoom="assets/blog/drawing-3.jpg" data-caption="The Beauty of Withering — Drawing 03">
+            <div class="drawing-box">
+              <img src="assets/blog/drawing-3.jpg" alt="Drawing 03">
+            </div>
+            <h3 class="drawing-caption-title">Drawing Study 03</h3>
+            <span class="drawing-caption-meta">Tonal membrane gradation</span>
+          </div>
+
+        </div>
+
+        <div class="blog-note">
+          <p>
+            Full essays and field dispatches from ongoing European residencies and material experiments are currently in preparation. The publishing section will feature regular editorial writing upon launch.
+          </p>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         5. CONTACT PAGE
+         SOW: "Add a contact form, contact information, and social media links."
+         ====================================================================== -->
+    <section id="view-contact" class="view-panel">
+      <div class="page-container">
+        <h1 class="page-title">Contact</h1>
+        <div class="page-intro" style="margin-bottom: 30px;">
+          <p>For studio visits, artwork acquisitions, exhibition proposals, or collaborations, please get in touch.</p>
+        </div>
+
+        <div class="contact-layout">
+          
+          <!-- Contact Information & Social Media Links -->
+          <div class="contact-details-col">
+            <h3>Studio Information</h3>
+            
+            <div class="contact-entry">
+              <span class="contact-label">Email</span>
+              <a href="mailto:hello@latensandforma.com" class="contact-value" style="color: var(--color-primary); font-weight: 500;">
+                hello@latensandforma.com
+              </a>
+            </div>
+
+            <div class="contact-entry">
+              <span class="contact-label">Office</span>
+              <div class="contact-value">8049 Zurich, Switzerland</div>
+            </div>
+
+            <div class="contact-entry">
+              <span class="contact-label">Social Media</span>
+              <div class="social-links-row">
+                <a href="https://www.instagram.com/latens_forma/" target="_blank" rel="noopener noreferrer" class="social-link-item">Instagram</a>
+                <a href="https://ch.linkedin.com/in/mitra-romina-karimi-6b5bab140" target="_blank" rel="noopener noreferrer" class="social-link-item">LinkedIn</a>
+                <a href="https://youtu.be/q7U7Hye2KZU" target="_blank" rel="noopener noreferrer" class="social-link-item">YouTube</a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Contact Form -->
+          <div class="contact-form-col">
+            <h3>Send a Message</h3>
+            <p>Messages route directly to hello@latensandforma.com.</p>
+
+            <form id="contact-form">
+              <div class="form-field">
+                <label for="c-name">Name *</label>
+                <input type="text" id="c-name" required placeholder="Your name">
+              </div>
+
+              <div class="form-field">
+                <label for="c-email">Email *</label>
+                <input type="email" id="c-email" required placeholder="your.email@domain.com">
+              </div>
+
+              <div class="form-field">
+                <label for="c-subject">Subject</label>
+                <input type="text" id="c-subject" placeholder="Inquiry subject">
+              </div>
+
+              <div class="form-field">
+                <label for="c-message">Message *</label>
+                <textarea id="c-message" required placeholder="Your message..."></textarea>
+              </div>
+
+              <button type="submit" class="btn-submit">Send Message</button>
+            </form>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- INQUIRY MODAL (Required on each project page, supporting contact details, messages, and optional image/PDF attachments) -->
+  <div id="inquiry-modal" class="inquiry-overlay" role="dialog" aria-modal="true">
+    <div class="inquiry-modal-card">
+      <button class="modal-close-btn" aria-label="Close">&times;</button>
+      
+      <h3 style="font-size: 1.25rem; color: var(--color-primary); font-weight: 500; margin-bottom: 6px;">
+        Artwork & Project Inquiry
+      </h3>
+      <p style="font-size: 0.84rem; color: var(--color-text-muted); margin-bottom: 24px;">
+        Submissions route directly to <strong>hello@latensandforma.com</strong>.
+      </p>
+
+      <form id="inquiry-form">
+        <div class="form-field">
+          <label for="inquiry-project-field">Project of Interest</label>
+          <input type="text" id="inquiry-project-field" readonly style="background: #f0edf3; color: var(--color-primary); font-weight: 500;">
+        </div>
+
+        <div class="form-field">
+          <label for="inquiry-name-field">Full Name *</label>
+          <input type="text" id="inquiry-name-field" required placeholder="Your name">
+        </div>
+
+        <div class="form-field">
+          <label for="inquiry-email-field">Email Address *</label>
+          <input type="email" id="inquiry-email-field" required placeholder="your.email@domain.com">
+        </div>
+
+        <div class="form-field">
+          <label for="inquiry-msg-field">Message *</label>
+          <textarea id="inquiry-msg-field" required placeholder="Please describe your acquisition or exhibition request..."></textarea>
+        </div>
+
+        <!-- Optional Image/PDF File Attachment per SOW -->
+        <div class="form-field">
+          <label>Attachment (Optional PDF or Image)</label>
+          <div class="file-upload-box" id="file-drop-area">
+            <input type="file" id="inquiry-file-input" accept=".pdf,image/png,image/jpeg,image/webp" style="display: none;">
+            <span id="file-status-label">Click to select an optional image or PDF (max 10MB)</span>
+          </div>
+        </div>
+
+        <button type="submit" class="btn-submit">Submit Inquiry</button>
+      </form>
+    </div>
+  </div>
+
+  <!-- LIGHTBOX FOR ARTWORK ZOOM -->
+  <div id="lightbox-overlay" class="lightbox-overlay" role="dialog">
+    <button class="modal-close-btn" style="color: #fff; top: 24px; right: 28px;" aria-label="Close">&times;</button>
+    <figure class="lightbox-figure">
+      <img src="" alt="">
+      <figcaption class="lightbox-caption-text"></figcaption>
+    </figure>
+  </div>
+
+  <!-- SITE FOOTER: Rights reserved by the designer as emphasized by the client -->
+  <footer class="site-footer">
+    <span class="designer-copyright">
+      &copy; 2026 Romina Karimi / Latens &amp; Forma. All rights reserved by the designer.
+    </span>
+    <span>Zurich, Switzerland &middot; hello@latensandforma.com</span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
