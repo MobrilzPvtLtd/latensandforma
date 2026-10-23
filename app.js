@@ -205,6 +205,10 @@ function initContactForm() {
     btn.disabled = true;
 
     setTimeout(() => {
+      const col = contactForm.closest('.contact-form-col');
+      const heading = col ? col.querySelector('h3') : null;
+      if (heading) heading.style.display = 'none';
+
       contactForm.innerHTML = `
         <div style="text-align: center; padding: 30px 10px;">
           <h3 style="color: #401b53; font-size: 1.2rem; margin-bottom: 10px;">Message Delivered</h3>
